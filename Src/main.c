@@ -1,4 +1,4 @@
-// projet sin HD : utilisation d'une table limitee a pi/2
+// projet sin ultra HD : utilisation d'une table limitee a pi/2
 
 int cos_pi( int a );
 
