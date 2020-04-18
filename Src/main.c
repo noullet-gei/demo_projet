@@ -1,3 +1,4 @@
+// SPEED Challenge by KJ
 // projet sin HD
 
 int cos_q9( int a );
