@@ -1,3 +1,4 @@
+// SIZE CHALLENGE CONTRIBUTION
 // projet sin HD
 
 int cos_q9( int a );
