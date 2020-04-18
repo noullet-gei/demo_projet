@@ -1,4 +1,4 @@
-// projet sin + cos HD
+// projet sin + cos betise HD
 
 int cos_q9( int a );
 
